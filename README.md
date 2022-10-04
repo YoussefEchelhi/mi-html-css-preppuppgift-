@@ -1,4 +1,4 @@
 # mi-html-css-preppuppgift-
 Förberedande uppgift i HTML &amp; CSS kursen
 
-Hello world
+Fotbollsintresserad kille som gillar mat och resor.
